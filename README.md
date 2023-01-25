@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaungsithu202" alt="kaungsithu202" /></a> </p>
 
-- 🔭 I’m currently working on **Myanmar High Society**
+
 
 - 🌱 I’m currently learning **React,NextJs,JavaScript**
 
